@@ -21,7 +21,7 @@ JavaScript
 
 Clona este repositorio:
 
-git clone https://github.com/
+git clone https://github.com/izaakJo/Amigo-Secreto.git
 
 Abre el archivo index.html en tu navegador.
 
@@ -34,7 +34,7 @@ Abre el archivo index.html en tu navegador.
 
 📜 Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. ¡Siéntete libre de modificarlo y mejorarlo!
+¡Siéntete libre de modificarlo y mejorarlo!
 
 ✨ Desarrollado por Jose Luis Quenpul Zambrano
 
