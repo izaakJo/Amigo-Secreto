@@ -1,6 +1,6 @@
 Amigo Secreto 🎁
 
-Este es un sencillo proyecto de "Amigo Secreto" donde los usuarios pueden ingresar nombres y sortear aleatoriamente un amigo secreto.
+Este proyecto es el "Amigo Secreto" donde los usuarios pueden ingresar nombres y sortear aleatoriamente un amigo secreto.
 
 🛠️ Tecnologías utilizadas
 
@@ -36,5 +36,5 @@ Abre el archivo index.html en tu navegador.
 
 ¡Siéntete libre de modificarlo y mejorarlo!
 
-✨ Desarrollado por Jose Luis Quenpul Zambrano
+✨ Desarrollado por Jose Luis Quenpul Zambrano para el curso de alura
 
